@@ -8,6 +8,8 @@
 
 
 ## TODO 
-1.Apply a better model
+1.Apply a better model (MobileNet)
 
 2.Increase the size of dataset.
+
+
